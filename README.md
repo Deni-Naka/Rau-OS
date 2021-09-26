@@ -1,2 +1,2 @@
-# rau-os
+# RAU-OS
 Repository for RAU Projects
